@@ -6,7 +6,7 @@ import Invoices from "../assets/Invoices.svg";
 import WalletIcon from "../assets/MyWalletsIcon.svg";
 import settingIcon from "../assets/SettingsIcon.svg";
 import helpIcon from "../assets/HelpIcon.svg";
-import logoutIcon from "../assets/logoutIcon.svg";
+import logoutIcon from "../assets/LogoutIcon.svg";
 import logo from "../assets/logo.svg";
 
 const Sidebar = ({ isOpen, setIsOpen }) => {
